@@ -1,1 +1,1 @@
-# This is my first Java-2D-Game
+# This is my first Java 2D-Game
